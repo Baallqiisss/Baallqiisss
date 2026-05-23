@@ -5,11 +5,11 @@
 - 🚀 Passionate about technology and continuous learning
 
 <p align="center">
-  <a href="https://instagram.com/username">
+  <a href="https://instagram.com/baallqiisss">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   
-  <a href="https://linkedin.com/in/username">
+  <a href="www.linkedin.com/in/balqis-sani-sabillah-b6006a283">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>

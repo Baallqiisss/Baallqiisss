@@ -6,11 +6,6 @@ Hey there! I'm Balqis
 <img width="800" height="259" alt="𝘼𝙙𝙖 𝙒𝙤𝙣𝙜 𝙃𝙚𝙖𝙙𝙚𝙧" src="https://github.com/user-attachments/assets/91810289-9179-4f02-a252-b376e963634a" />
 </p>
 
-- 🎓 Information Technology Student at ITS 
-- 🌐 Learning Web Development, Networking, Smart City, and IoT 
-- 🚀 Passionate about technology and continuous learning
-
-
 <p align="center">
   <a href="https://instagram.com/baallqiisss">
     <img src="https://skillicons.dev/icons?i=instagram" />

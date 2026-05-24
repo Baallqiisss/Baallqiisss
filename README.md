@@ -9,9 +9,9 @@
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   
-  <a href="www.linkedin.com/in/balqis-sani-sabillah">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+<a href="https://www.linkedin.com/in/balqis-sani-sabillah-b6006a283" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 </p>
 
 <p align="center">
